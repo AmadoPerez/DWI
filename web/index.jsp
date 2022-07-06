@@ -22,7 +22,7 @@
     </head>
     <body>
            <!--FORMULARIO---->
-           <form class="form" method="POST" action="ObjetoJSP.jsp">
+           <form class="form" method="POST" action="index.jsp">
               
         <!--TITULO------------------------>
         <h1 class="titulo">Registros de Alumnos</h1>
